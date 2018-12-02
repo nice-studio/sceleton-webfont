@@ -1,0 +1,22 @@
+{
+	"name": "fontname",
+	"description": "",
+	"main": "dist/css/fontname.css",
+	"authors": [
+		"ProjectSoft <projectsoft2009@yandex.ru>"
+	],
+	"license": "ISC",
+	"homepage": "",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests",
+		"src/pug",
+		"Gruntfile.js",
+		"**/*.html",
+		"**/*.ico",
+		"**/*.json"
+	]
+}
