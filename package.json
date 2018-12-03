@@ -16,6 +16,7 @@
 		"url": "https://github.com/nice-studio/sceleton-webfont/issues"
 	},
 	"homepage": "https://github.com/nice-studio/sceleton-webfont#readme",
+	"githubpage": "https://nice-studio.github.io/sceleton-webfont/",
 	"devDependencies": {
 		"grunt": "^1.0.1",
 		"grunt-contrib-less": "^1.3.0",

@@ -70,13 +70,9 @@
 	.font('@{fontfamily} Black'; '@{fontfamilyos}-Black'; normal; 900);
 }
 
-
-
-
-.mixweight(@weight; @style) when (@weight =< 900){
+.mixweight(@weight; @style){
 	.@{style}-@{weight} {
 		font-weight: @weight;
 		font-style: @style;
 	}
-	.mixweight((@weight + 100); @style);
 }

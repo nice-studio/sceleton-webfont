@@ -14,9 +14,8 @@
 		"test",
 		"tests",
 		"src/pug",
-		"Gruntfile.js",
 		"**/*.html",
 		"**/*.ico",
-		"**/*.json"
+		"**/package-lock.json"
 	]
 }

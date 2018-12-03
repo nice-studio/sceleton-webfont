@@ -2,107 +2,107 @@
   font-family: 'Font Name';
   font-style: italic;
   font-weight: 100;
-  src: local('Font Name Thin Italic'), local('FontName-ThinItalic'), url("dist/fonts/FontName-ThinItalic.eot") format("embedded-opentype"), url("dist/fonts/FontName-ThinItalic.otf") format("opentype"), url("dist/fonts/FontName-ThinItalic.svg") format("svg"), url("dist/fonts/FontName-ThinItalic.ttf") format("truetype"), url("dist/fonts/FontName-ThinItalic.woff") format("woff"), url("dist/fonts/FontName-ThinItalic.woff2") format("woff2");
+  src: local('Font Name Thin Italic'), local('FontName-ThinItalic'), url("dist / fonts/FontName-ThinItalic.eot") format("embedded-opentype"), url("dist / fonts/FontName-ThinItalic.otf") format("opentype"), url("dist / fonts/FontName-ThinItalic.svg") format("svg"), url("dist / fonts/FontName-ThinItalic.ttf") format("truetype"), url("dist / fonts/FontName-ThinItalic.woff") format("woff"), url("dist / fonts/FontName-ThinItalic.woff2") format("woff2");
 }
 @font-face {
   font-family: 'Font Name';
   font-style: italic;
   font-weight: 200;
-  src: local('Font Name Extra Light Italic'), local('FontName-ExtraLightItalic'), url("dist/fonts/FontName-ExtraLightItalic.eot") format("embedded-opentype"), url("dist/fonts/FontName-ExtraLightItalic.otf") format("opentype"), url("dist/fonts/FontName-ExtraLightItalic.svg") format("svg"), url("dist/fonts/FontName-ExtraLightItalic.ttf") format("truetype"), url("dist/fonts/FontName-ExtraLightItalic.woff") format("woff"), url("dist/fonts/FontName-ExtraLightItalic.woff2") format("woff2");
+  src: local('Font Name Extra Light Italic'), local('FontName-ExtraLightItalic'), url("dist / fonts/FontName-ExtraLightItalic.eot") format("embedded-opentype"), url("dist / fonts/FontName-ExtraLightItalic.otf") format("opentype"), url("dist / fonts/FontName-ExtraLightItalic.svg") format("svg"), url("dist / fonts/FontName-ExtraLightItalic.ttf") format("truetype"), url("dist / fonts/FontName-ExtraLightItalic.woff") format("woff"), url("dist / fonts/FontName-ExtraLightItalic.woff2") format("woff2");
 }
 @font-face {
   font-family: 'Font Name';
   font-style: italic;
   font-weight: 300;
-  src: local('Font Name Light Italic'), local('FontName-LightItalic'), url("dist/fonts/FontName-LightItalic.eot") format("embedded-opentype"), url("dist/fonts/FontName-LightItalic.otf") format("opentype"), url("dist/fonts/FontName-LightItalic.svg") format("svg"), url("dist/fonts/FontName-LightItalic.ttf") format("truetype"), url("dist/fonts/FontName-LightItalic.woff") format("woff"), url("dist/fonts/FontName-LightItalic.woff2") format("woff2");
+  src: local('Font Name Light Italic'), local('FontName-LightItalic'), url("dist / fonts/FontName-LightItalic.eot") format("embedded-opentype"), url("dist / fonts/FontName-LightItalic.otf") format("opentype"), url("dist / fonts/FontName-LightItalic.svg") format("svg"), url("dist / fonts/FontName-LightItalic.ttf") format("truetype"), url("dist / fonts/FontName-LightItalic.woff") format("woff"), url("dist / fonts/FontName-LightItalic.woff2") format("woff2");
 }
 @font-face {
   font-family: 'Font Name';
   font-style: italic;
   font-weight: 400;
-  src: local('Font Name Italic'), local('FontName-Italic'), url("dist/fonts/FontName-Italic.eot") format("embedded-opentype"), url("dist/fonts/FontName-Italic.otf") format("opentype"), url("dist/fonts/FontName-Italic.svg") format("svg"), url("dist/fonts/FontName-Italic.ttf") format("truetype"), url("dist/fonts/FontName-Italic.woff") format("woff"), url("dist/fonts/FontName-Italic.woff2") format("woff2");
+  src: local('Font Name Italic'), local('FontName-Italic'), url("dist / fonts/FontName-Italic.eot") format("embedded-opentype"), url("dist / fonts/FontName-Italic.otf") format("opentype"), url("dist / fonts/FontName-Italic.svg") format("svg"), url("dist / fonts/FontName-Italic.ttf") format("truetype"), url("dist / fonts/FontName-Italic.woff") format("woff"), url("dist / fonts/FontName-Italic.woff2") format("woff2");
 }
 @font-face {
   font-family: 'Font Name';
   font-style: italic;
   font-weight: 500;
-  src: local('Font Name Medium Italic'), local('FontName-MediumItalic'), url("dist/fonts/FontName-MediumItalic.eot") format("embedded-opentype"), url("dist/fonts/FontName-MediumItalic.otf") format("opentype"), url("dist/fonts/FontName-MediumItalic.svg") format("svg"), url("dist/fonts/FontName-MediumItalic.ttf") format("truetype"), url("dist/fonts/FontName-MediumItalic.woff") format("woff"), url("dist/fonts/FontName-MediumItalic.woff2") format("woff2");
+  src: local('Font Name Medium Italic'), local('FontName-MediumItalic'), url("dist / fonts/FontName-MediumItalic.eot") format("embedded-opentype"), url("dist / fonts/FontName-MediumItalic.otf") format("opentype"), url("dist / fonts/FontName-MediumItalic.svg") format("svg"), url("dist / fonts/FontName-MediumItalic.ttf") format("truetype"), url("dist / fonts/FontName-MediumItalic.woff") format("woff"), url("dist / fonts/FontName-MediumItalic.woff2") format("woff2");
 }
 @font-face {
   font-family: 'Font Name';
   font-style: italic;
   font-weight: 600;
-  src: local('Font Name Semi Bold Italic'), local('FontName-SemiBoldItalic'), url("dist/fonts/FontName-SemiBoldItalic.eot") format("embedded-opentype"), url("dist/fonts/FontName-SemiBoldItalic.otf") format("opentype"), url("dist/fonts/FontName-SemiBoldItalic.svg") format("svg"), url("dist/fonts/FontName-SemiBoldItalic.ttf") format("truetype"), url("dist/fonts/FontName-SemiBoldItalic.woff") format("woff"), url("dist/fonts/FontName-SemiBoldItalic.woff2") format("woff2");
+  src: local('Font Name Semi Bold Italic'), local('FontName-SemiBoldItalic'), url("dist / fonts/FontName-SemiBoldItalic.eot") format("embedded-opentype"), url("dist / fonts/FontName-SemiBoldItalic.otf") format("opentype"), url("dist / fonts/FontName-SemiBoldItalic.svg") format("svg"), url("dist / fonts/FontName-SemiBoldItalic.ttf") format("truetype"), url("dist / fonts/FontName-SemiBoldItalic.woff") format("woff"), url("dist / fonts/FontName-SemiBoldItalic.woff2") format("woff2");
 }
 @font-face {
   font-family: 'Font Name';
   font-style: italic;
   font-weight: 700;
-  src: local('Font Name Bold Italic'), local('FontName-BoldItalic'), url("dist/fonts/FontName-BoldItalic.eot") format("embedded-opentype"), url("dist/fonts/FontName-BoldItalic.otf") format("opentype"), url("dist/fonts/FontName-BoldItalic.svg") format("svg"), url("dist/fonts/FontName-BoldItalic.ttf") format("truetype"), url("dist/fonts/FontName-BoldItalic.woff") format("woff"), url("dist/fonts/FontName-BoldItalic.woff2") format("woff2");
+  src: local('Font Name Bold Italic'), local('FontName-BoldItalic'), url("dist / fonts/FontName-BoldItalic.eot") format("embedded-opentype"), url("dist / fonts/FontName-BoldItalic.otf") format("opentype"), url("dist / fonts/FontName-BoldItalic.svg") format("svg"), url("dist / fonts/FontName-BoldItalic.ttf") format("truetype"), url("dist / fonts/FontName-BoldItalic.woff") format("woff"), url("dist / fonts/FontName-BoldItalic.woff2") format("woff2");
 }
 @font-face {
   font-family: 'Font Name';
   font-style: italic;
   font-weight: 800;
-  src: local('Font Name Extra Bold Italic'), local('FontName-ExtraBoldItalic'), url("dist/fonts/FontName-ExtraBoldItalic.eot") format("embedded-opentype"), url("dist/fonts/FontName-ExtraBoldItalic.otf") format("opentype"), url("dist/fonts/FontName-ExtraBoldItalic.svg") format("svg"), url("dist/fonts/FontName-ExtraBoldItalic.ttf") format("truetype"), url("dist/fonts/FontName-ExtraBoldItalic.woff") format("woff"), url("dist/fonts/FontName-ExtraBoldItalic.woff2") format("woff2");
+  src: local('Font Name Extra Bold Italic'), local('FontName-ExtraBoldItalic'), url("dist / fonts/FontName-ExtraBoldItalic.eot") format("embedded-opentype"), url("dist / fonts/FontName-ExtraBoldItalic.otf") format("opentype"), url("dist / fonts/FontName-ExtraBoldItalic.svg") format("svg"), url("dist / fonts/FontName-ExtraBoldItalic.ttf") format("truetype"), url("dist / fonts/FontName-ExtraBoldItalic.woff") format("woff"), url("dist / fonts/FontName-ExtraBoldItalic.woff2") format("woff2");
 }
 @font-face {
   font-family: 'Font Name';
   font-style: italic;
   font-weight: 900;
-  src: local('Font Name Black Italic'), local('FontName-BlackItalic'), url("dist/fonts/FontName-BlackItalic.eot") format("embedded-opentype"), url("dist/fonts/FontName-BlackItalic.otf") format("opentype"), url("dist/fonts/FontName-BlackItalic.svg") format("svg"), url("dist/fonts/FontName-BlackItalic.ttf") format("truetype"), url("dist/fonts/FontName-BlackItalic.woff") format("woff"), url("dist/fonts/FontName-BlackItalic.woff2") format("woff2");
+  src: local('Font Name Black Italic'), local('FontName-BlackItalic'), url("dist / fonts/FontName-BlackItalic.eot") format("embedded-opentype"), url("dist / fonts/FontName-BlackItalic.otf") format("opentype"), url("dist / fonts/FontName-BlackItalic.svg") format("svg"), url("dist / fonts/FontName-BlackItalic.ttf") format("truetype"), url("dist / fonts/FontName-BlackItalic.woff") format("woff"), url("dist / fonts/FontName-BlackItalic.woff2") format("woff2");
 }
 @font-face {
   font-family: 'Font Name';
   font-style: normal;
   font-weight: 100;
-  src: local('Font Name Thin'), local('FontName-Thin'), url("dist/fonts/FontName-Thin.eot") format("embedded-opentype"), url("dist/fonts/FontName-Thin.otf") format("opentype"), url("dist/fonts/FontName-Thin.svg") format("svg"), url("dist/fonts/FontName-Thin.ttf") format("truetype"), url("dist/fonts/FontName-Thin.woff") format("woff"), url("dist/fonts/FontName-Thin.woff2") format("woff2");
+  src: local('Font Name Thin'), local('FontName-Thin'), url("dist / fonts/FontName-Thin.eot") format("embedded-opentype"), url("dist / fonts/FontName-Thin.otf") format("opentype"), url("dist / fonts/FontName-Thin.svg") format("svg"), url("dist / fonts/FontName-Thin.ttf") format("truetype"), url("dist / fonts/FontName-Thin.woff") format("woff"), url("dist / fonts/FontName-Thin.woff2") format("woff2");
 }
 @font-face {
   font-family: 'Font Name';
   font-style: normal;
   font-weight: 200;
-  src: local('Font Name Extra Light'), local('FontName-ExtraLight'), url("dist/fonts/FontName-ExtraLight.eot") format("embedded-opentype"), url("dist/fonts/FontName-ExtraLight.otf") format("opentype"), url("dist/fonts/FontName-ExtraLight.svg") format("svg"), url("dist/fonts/FontName-ExtraLight.ttf") format("truetype"), url("dist/fonts/FontName-ExtraLight.woff") format("woff"), url("dist/fonts/FontName-ExtraLight.woff2") format("woff2");
+  src: local('Font Name Extra Light'), local('FontName-ExtraLight'), url("dist / fonts/FontName-ExtraLight.eot") format("embedded-opentype"), url("dist / fonts/FontName-ExtraLight.otf") format("opentype"), url("dist / fonts/FontName-ExtraLight.svg") format("svg"), url("dist / fonts/FontName-ExtraLight.ttf") format("truetype"), url("dist / fonts/FontName-ExtraLight.woff") format("woff"), url("dist / fonts/FontName-ExtraLight.woff2") format("woff2");
 }
 @font-face {
   font-family: 'Font Name';
   font-style: normal;
   font-weight: 300;
-  src: local('Font Name Light'), local('FontName-Light'), url("dist/fonts/FontName-Light.eot") format("embedded-opentype"), url("dist/fonts/FontName-Light.otf") format("opentype"), url("dist/fonts/FontName-Light.svg") format("svg"), url("dist/fonts/FontName-Light.ttf") format("truetype"), url("dist/fonts/FontName-Light.woff") format("woff"), url("dist/fonts/FontName-Light.woff2") format("woff2");
+  src: local('Font Name Light'), local('FontName-Light'), url("dist / fonts/FontName-Light.eot") format("embedded-opentype"), url("dist / fonts/FontName-Light.otf") format("opentype"), url("dist / fonts/FontName-Light.svg") format("svg"), url("dist / fonts/FontName-Light.ttf") format("truetype"), url("dist / fonts/FontName-Light.woff") format("woff"), url("dist / fonts/FontName-Light.woff2") format("woff2");
 }
 @font-face {
   font-family: 'Font Name';
   font-style: normal;
   font-weight: 400;
-  src: local('Font Name'), local('FontName-Regular'), url("dist/fonts/FontName-Regular.eot") format("embedded-opentype"), url("dist/fonts/FontName-Regular.otf") format("opentype"), url("dist/fonts/FontName-Regular.svg") format("svg"), url("dist/fonts/FontName-Regular.ttf") format("truetype"), url("dist/fonts/FontName-Regular.woff") format("woff"), url("dist/fonts/FontName-Regular.woff2") format("woff2");
+  src: local('Font Name'), local('FontName-Regular'), url("dist / fonts/FontName-Regular.eot") format("embedded-opentype"), url("dist / fonts/FontName-Regular.otf") format("opentype"), url("dist / fonts/FontName-Regular.svg") format("svg"), url("dist / fonts/FontName-Regular.ttf") format("truetype"), url("dist / fonts/FontName-Regular.woff") format("woff"), url("dist / fonts/FontName-Regular.woff2") format("woff2");
 }
 @font-face {
   font-family: 'Font Name';
   font-style: normal;
   font-weight: 500;
-  src: local('Font Name Medium'), local('FontName-Medium'), url("dist/fonts/FontName-Medium.eot") format("embedded-opentype"), url("dist/fonts/FontName-Medium.otf") format("opentype"), url("dist/fonts/FontName-Medium.svg") format("svg"), url("dist/fonts/FontName-Medium.ttf") format("truetype"), url("dist/fonts/FontName-Medium.woff") format("woff"), url("dist/fonts/FontName-Medium.woff2") format("woff2");
+  src: local('Font Name Medium'), local('FontName-Medium'), url("dist / fonts/FontName-Medium.eot") format("embedded-opentype"), url("dist / fonts/FontName-Medium.otf") format("opentype"), url("dist / fonts/FontName-Medium.svg") format("svg"), url("dist / fonts/FontName-Medium.ttf") format("truetype"), url("dist / fonts/FontName-Medium.woff") format("woff"), url("dist / fonts/FontName-Medium.woff2") format("woff2");
 }
 @font-face {
   font-family: 'Font Name';
   font-style: normal;
   font-weight: 600;
-  src: local('Font Name Semi Bold'), local('FontName-SemiBold'), url("dist/fonts/FontName-SemiBold.eot") format("embedded-opentype"), url("dist/fonts/FontName-SemiBold.otf") format("opentype"), url("dist/fonts/FontName-SemiBold.svg") format("svg"), url("dist/fonts/FontName-SemiBold.ttf") format("truetype"), url("dist/fonts/FontName-SemiBold.woff") format("woff"), url("dist/fonts/FontName-SemiBold.woff2") format("woff2");
+  src: local('Font Name Semi Bold'), local('FontName-SemiBold'), url("dist / fonts/FontName-SemiBold.eot") format("embedded-opentype"), url("dist / fonts/FontName-SemiBold.otf") format("opentype"), url("dist / fonts/FontName-SemiBold.svg") format("svg"), url("dist / fonts/FontName-SemiBold.ttf") format("truetype"), url("dist / fonts/FontName-SemiBold.woff") format("woff"), url("dist / fonts/FontName-SemiBold.woff2") format("woff2");
 }
 @font-face {
   font-family: 'Font Name';
   font-style: normal;
   font-weight: 700;
-  src: local('Font Name Bold'), local('FontName-Bold'), url("dist/fonts/FontName-Bold.eot") format("embedded-opentype"), url("dist/fonts/FontName-Bold.otf") format("opentype"), url("dist/fonts/FontName-Bold.svg") format("svg"), url("dist/fonts/FontName-Bold.ttf") format("truetype"), url("dist/fonts/FontName-Bold.woff") format("woff"), url("dist/fonts/FontName-Bold.woff2") format("woff2");
+  src: local('Font Name Bold'), local('FontName-Bold'), url("dist / fonts/FontName-Bold.eot") format("embedded-opentype"), url("dist / fonts/FontName-Bold.otf") format("opentype"), url("dist / fonts/FontName-Bold.svg") format("svg"), url("dist / fonts/FontName-Bold.ttf") format("truetype"), url("dist / fonts/FontName-Bold.woff") format("woff"), url("dist / fonts/FontName-Bold.woff2") format("woff2");
 }
 @font-face {
   font-family: 'Font Name';
   font-style: normal;
   font-weight: 800;
-  src: local('Font Name Extra Bold'), local('FontName-ExtraBold'), url("dist/fonts/FontName-ExtraBold.eot") format("embedded-opentype"), url("dist/fonts/FontName-ExtraBold.otf") format("opentype"), url("dist/fonts/FontName-ExtraBold.svg") format("svg"), url("dist/fonts/FontName-ExtraBold.ttf") format("truetype"), url("dist/fonts/FontName-ExtraBold.woff") format("woff"), url("dist/fonts/FontName-ExtraBold.woff2") format("woff2");
+  src: local('Font Name Extra Bold'), local('FontName-ExtraBold'), url("dist / fonts/FontName-ExtraBold.eot") format("embedded-opentype"), url("dist / fonts/FontName-ExtraBold.otf") format("opentype"), url("dist / fonts/FontName-ExtraBold.svg") format("svg"), url("dist / fonts/FontName-ExtraBold.ttf") format("truetype"), url("dist / fonts/FontName-ExtraBold.woff") format("woff"), url("dist / fonts/FontName-ExtraBold.woff2") format("woff2");
 }
 @font-face {
   font-family: 'Font Name';
   font-style: normal;
   font-weight: 900;
-  src: local('Font Name Black'), local('FontName-Black'), url("dist/fonts/FontName-Black.eot") format("embedded-opentype"), url("dist/fonts/FontName-Black.otf") format("opentype"), url("dist/fonts/FontName-Black.svg") format("svg"), url("dist/fonts/FontName-Black.ttf") format("truetype"), url("dist/fonts/FontName-Black.woff") format("woff"), url("dist/fonts/FontName-Black.woff2") format("woff2");
+  src: local('Font Name Black'), local('FontName-Black'), url("dist / fonts/FontName-Black.eot") format("embedded-opentype"), url("dist / fonts/FontName-Black.otf") format("opentype"), url("dist / fonts/FontName-Black.svg") format("svg"), url("dist / fonts/FontName-Black.ttf") format("truetype"), url("dist / fonts/FontName-Black.woff") format("woff"), url("dist / fonts/FontName-Black.woff2") format("woff2");
 }
